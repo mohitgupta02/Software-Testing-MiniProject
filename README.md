@@ -1,9 +1,9 @@
 
 ---
 
-# FinFlow Tester - Data Flow Coverage for FinanceMate
+# FlowScan Tester - Data Flow Coverage for FinanceMate
 
-**FinFlow Tester** is a comprehensive testing framework for the **FinanceMate** application, a Java-based terminal tool offering a suite of financial calculators. The project ensures thorough validation using **Data Flow Graphs (DFGs)** and **Data Flow Coverage Criteria** to test all possible definition-use (DU) paths of variables.
+**FlowScan Tester** is a comprehensive testing framework for the **FinanceMate** application, a Java-based terminal tool offering a suite of financial calculators. The project ensures thorough validation using **Data Flow Graphs (DFGs)** and **Data Flow Coverage Criteria** to test all possible definition-use (DU) paths of variables.
 
 ## Features of FinanceMate
 
@@ -50,20 +50,20 @@ The testing methodology employs **Data Flow Graphs (DFGs)** and **JUnit** to ach
    ```
 
 ## Authors
-- **Vraj Jatin Naik**  
-  Roll No.: MT2023050  
-  Email: [Vraj.Naik@iiitb.ac.in](mailto:Vraj.Naik@iiitb.ac.in)
+- **Mohit Gupta**  
+  Roll No.: MT2024049  
+  Email: [gargmohit.vishnuprasad@iiitb.ac.in](mailto:gargmohit.vishnuprasad@iiitb.ac.in)
 
 
-- **Arjun Gangani**  
-  Roll No.: MT2023153  
-  Email: [Arjun.Gangani@iiitb.ac.in](mailto:Arjun.Gangani@iiitb.ac.in)
+- **Rohan Sonawane**  
+  Roll No.: MT2024128  
+  Email: [rohan.sonawane@iiitb.ac.in](mailto:rohan.sonawane@iiitb.ac.in)
 
 ## Guided By
 - **Prof. Meenakshi D Souza**  
   International Institute of Information Technology, Bangalore
 
 ## GitHub Repository
-Explore the complete project at [GitHub](https://github.com/VrajNaik/Software-Testing-MiniProject).
+Explore the complete project at [GitHub](https://github.com/mohitgupta02/Software-Testing-MiniProject).
 
 ---
