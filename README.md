@@ -8,6 +8,7 @@
 ## Features of FinanceMate
 
 FinanceMate provides the following financial calculators:
+
 - Employee Provident Fund (EPF)
 - Public Provident Fund (PPF)
 - Systematic Investment Plan (SIP)
@@ -22,48 +23,59 @@ FinanceMate provides the following financial calculators:
 ## Testing Methodology
 
 The testing methodology employs **Data Flow Graphs (DFGs)** and **JUnit** to achieve:
+
 - **All-Defs Coverage**: Ensures every variable definition is tested at least once.
 - **All-DU-Paths Coverage**: Guarantees comprehensive testing of all possible flows from definitions to their respective uses, including complex paths and loops.
 
 ### Tools Used
+
 1. **Data Flow Graph Coverage Web Application**: Automates the generation of DFGs and validates test paths.
 2. **JUnit Framework**: Facilitates automated testing and result analysis.
 
 ## Key Components of the Project
+
 - **Testing Code and Test Cases**: Covers each financial calculator in FinanceMate.
 - **Rigorous Coverage Metrics**: All definitions and uses of variables are exercised.
 - **Automation for Efficiency**: Integration with JUnit enables streamlined execution and monitoring.
 
 ## How to Run
+
 1. Clone the repository:
+
    ```bash
-   git clone https://github.com/VrajNaik/Software-Testing-MiniProject.git
+   git clone https://github.com/mohitgupta02/Software-Testing-MiniProject.git
    ```
+
 2. Navigate to the project directory and build the project:
+
    ```bash
    cd Software-Testing-MiniProject
    mvn clean install
    ```
+
 3. Execute the test suite:
+
    ```bash
    mvn test
    ```
 
 ## Authors
+
 - **Mohit Gupta**  
   Roll No.: MT2024049  
   Email: [gargmohit.vishnuprasad@iiitb.ac.in](mailto:gargmohit.vishnuprasad@iiitb.ac.in)
-
 
 - **Rohan Sonawane**  
   Roll No.: MT2024128  
   Email: [rohan.sonawane@iiitb.ac.in](mailto:rohan.sonawane@iiitb.ac.in)
 
 ## Guided By
+
 - **Prof. Meenakshi D Souza**  
   International Institute of Information Technology, Bangalore
 
 ## GitHub Repository
+
 Explore the complete project at [GitHub](https://github.com/mohitgupta02/Software-Testing-MiniProject).
 
 ---
